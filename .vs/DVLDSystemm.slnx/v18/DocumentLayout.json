@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\anas1\\source\\repos\\DVLDSystemm\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D79C4A04-8E99-4431-AD09-BD21CCF05048}|DVLDSystemm\\PresentationLayer.csproj|C:\\Users\\anas1\\source\\repos\\DVLDSystemm\\dvldsystemm\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D79C4A04-8E99-4431-AD09-BD21CCF05048}|DVLDSystemm\\PresentationLayer.csproj|solutionrelative:dvldsystemm\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D79C4A04-8E99-4431-AD09-BD21CCF05048}|PresentationLayer\\PresentationLayer.csproj|c:\\users\\anas1\\source\\repos\\dvldsystemm\\presentationlayer\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D79C4A04-8E99-4431-AD09-BD21CCF05048}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D79C4A04-8E99-4431-AD09-BD21CCF05048}|DVLDSystemm\\PresentationLayer.csproj|c:\\users\\anas1\\source\\repos\\dvldsystemm\\dvldsystemm\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D79C4A04-8E99-4431-AD09-BD21CCF05048}|DVLDSystemm\\PresentationLayer.csproj|solutionrelative:dvldsystemm\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\anas1\\source\\repos\\DVLDSystemm\\DVLDSystemm\\frmMain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DVLDSystemm\\frmMain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D79C4A04-8E99-4431-AD09-BD21CCF05048}|DVLDSystemm\\PresentationLayer.csproj|c:\\users\\anas1\\source\\repos\\dvldsystemm\\dvldsystemm\\frmdetainlicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D79C4A04-8E99-4431-AD09-BD21CCF05048}|DVLDSystemm\\PresentationLayer.csproj|solutionrelative:dvldsystemm\\frmdetainlicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\anas1\\source\\repos\\DVLDSystemm\\DVLDSystemm\\frmDetainLicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DVLDSystemm\\frmDetainLicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D79C4A04-8E99-4431-AD09-BD21CCF05048}|DVLDSystemm\\PresentationLayer.csproj|C:\\Users\\anas1\\source\\repos\\DVLDSystemm\\dvldsystemm\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D79C4A04-8E99-4431-AD09-BD21CCF05048}|DVLDSystemm\\PresentationLayer.csproj|solutionrelative:dvldsystemm\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\anas1\\source\\repos\\DVLDSystemm\\dvldsystemm\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:dvldsystemm\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D79C4A04-8E99-4431-AD09-BD21CCF05048}|DVLDSystemm\\PresentationLayer.csproj|C:\\Users\\anas1\\source\\repos\\DVLDSystemm\\dvldsystemm\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D79C4A04-8E99-4431-AD09-BD21CCF05048}|DVLDSystemm\\PresentationLayer.csproj|solutionrelative:dvldsystemm\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\anas1\\source\\repos\\DVLDSystemm\\DVLDSystemm\\frmLogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DVLDSystemm\\frmLogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,28 +42,37 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "frmLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\anas1\\source\\repos\\DVLDSystemm\\PresentationLayer\\frmLogin.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\frmLogin.cs",
+              "ToolTip": "C:\\Users\\anas1\\source\\repos\\DVLDSystemm\\PresentationLayer\\frmLogin.cs [Design]",
+              "RelativeToolTip": "PresentationLayer\\frmLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-15T16:53:16.247Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "frmLogin.cs [Design]",
               "DocumentMoniker": "C:\\Users\\anas1\\source\\repos\\DVLDSystemm\\DVLDSystemm\\frmLogin.cs",
               "RelativeDocumentMoniker": "DVLDSystemm\\frmLogin.cs",
               "ToolTip": "C:\\Users\\anas1\\source\\repos\\DVLDSystemm\\DVLDSystemm\\frmLogin.cs [Design]",
               "RelativeToolTip": "DVLDSystemm\\frmLogin.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-05T17:40:17.076Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-11-05T17:40:17.076Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "frmLogin.cs",
               "DocumentMoniker": "C:\\Users\\anas1\\source\\repos\\DVLDSystemm\\DVLDSystemm\\frmLogin.cs",
               "RelativeDocumentMoniker": "DVLDSystemm\\frmLogin.cs",
               "ToolTip": "C:\\Users\\anas1\\source\\repos\\DVLDSystemm\\DVLDSystemm\\frmLogin.cs",
               "RelativeToolTip": "DVLDSystemm\\frmLogin.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAywGgAAABaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-07T14:12:44.079Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-07T14:12:44.079Z"
             },
             {
               "$type": "Document",
@@ -73,33 +82,19 @@
               "RelativeDocumentMoniker": "DVLDSystemm\\frmDetainLicense.cs",
               "ToolTip": "C:\\Users\\anas1\\source\\repos\\DVLDSystemm\\DVLDSystemm\\frmDetainLicense.cs",
               "RelativeToolTip": "DVLDSystemm\\frmDetainLicense.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAIA2wCQAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-06T20:43:26.453Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-06T20:43:26.453Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "frmMain.cs",
               "DocumentMoniker": "C:\\Users\\anas1\\source\\repos\\DVLDSystemm\\DVLDSystemm\\frmMain.cs",
               "RelativeDocumentMoniker": "DVLDSystemm\\frmMain.cs",
               "ToolTip": "C:\\Users\\anas1\\source\\repos\\DVLDSystemm\\DVLDSystemm\\frmMain.cs",
               "RelativeToolTip": "DVLDSystemm\\frmMain.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-06T14:18:53.759Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "frmMain.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\anas1\\source\\repos\\DVLDSystemm\\DVLDSystemm\\frmMain.cs",
-              "RelativeDocumentMoniker": "DVLDSystemm\\frmMain.cs",
-              "ToolTip": "C:\\Users\\anas1\\source\\repos\\DVLDSystemm\\DVLDSystemm\\frmMain.cs [Design]",
-              "RelativeToolTip": "DVLDSystemm\\frmMain.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-06T14:18:55.344Z"
             }
           ]
         }
