@@ -1,0 +1,171 @@
+﻿namespace PresentationLayer
+{
+    partial class frmDetainLicense
+    {
+        /// <summary>
+        /// Required designer variable.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary>
+        /// Clean up any resources being used.
+        /// </summary>
+        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        #region Windows Form Designer generated code
+
+        /// <summary>
+        /// Required method for Designer support - do not modify
+        /// the contents of this method with the code editor.
+        /// </summary>
+        private void InitializeComponent()
+        {
+            this.llShowLicenseHistory = new System.Windows.Forms.LinkLabel();
+            this.llShowLicenseInfo = new System.Windows.Forms.LinkLabel();
+            this.button1 = new System.Windows.Forms.Button();
+            this.btnDetain = new System.Windows.Forms.Button();
+            this.label1 = new System.Windows.Forms.Label();
+            this.ctrlDetainLicenseInfo1 = new PresentationLayer.ctrlDetainLicenseInfo();
+            this.ctrlLicenseInfo1 = new PresentationLayer.ctrlLicenseInfo();
+            this.ctrlSearchOnInternattionalLicense1 = new PresentationLayer.ctrlSearchOnInternattionalLicense();
+            this.SuspendLayout();
+            // 
+            // llShowLicenseHistory
+            // 
+            this.llShowLicenseHistory.ActiveLinkColor = System.Drawing.Color.FromArgb(((int)(((byte)(15)))), ((int)(((byte)(23)))), ((int)(((byte)(42)))));
+            this.llShowLicenseHistory.AutoSize = true;
+            this.llShowLicenseHistory.Font = new System.Drawing.Font("Segoe UI", 9.5F, System.Drawing.FontStyle.Bold);
+            this.llShowLicenseHistory.LinkColor = System.Drawing.Color.FromArgb(((int)(((byte)(37)))), ((int)(((byte)(99)))), ((int)(((byte)(235)))));
+            this.llShowLicenseHistory.Location = new System.Drawing.Point(20, 535);
+            this.llShowLicenseHistory.Name = "llShowLicenseHistory";
+            this.llShowLicenseHistory.Size = new System.Drawing.Size(140, 17);
+            this.llShowLicenseHistory.TabIndex = 3;
+            this.llShowLicenseHistory.TabStop = true;
+            this.llShowLicenseHistory.Text = "Show License History";
+            this.llShowLicenseHistory.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.llShowLicenseHistory_LinkClicked);
+            // 
+            // llShowLicenseInfo
+            // 
+            this.llShowLicenseInfo.ActiveLinkColor = System.Drawing.Color.FromArgb(((int)(((byte)(15)))), ((int)(((byte)(23)))), ((int)(((byte)(42)))));
+            this.llShowLicenseInfo.AutoSize = true;
+            this.llShowLicenseInfo.Enabled = false;
+            this.llShowLicenseInfo.Font = new System.Drawing.Font("Segoe UI", 9.5F, System.Drawing.FontStyle.Bold);
+            this.llShowLicenseInfo.LinkColor = System.Drawing.Color.FromArgb(((int)(((byte)(37)))), ((int)(((byte)(99)))), ((int)(((byte)(235)))));
+            this.llShowLicenseInfo.Location = new System.Drawing.Point(175, 535);
+            this.llShowLicenseInfo.Name = "llShowLicenseInfo";
+            this.llShowLicenseInfo.Size = new System.Drawing.Size(119, 17);
+            this.llShowLicenseInfo.TabIndex = 4;
+            this.llShowLicenseInfo.TabStop = true;
+            this.llShowLicenseInfo.Text = "Show Licnese Info";
+            this.llShowLicenseInfo.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.llShowLicenseInfo_LinkClicked);
+            // 
+            // button1
+            // 
+            this.button1.BackColor = System.Drawing.Color.White;
+            this.button1.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(203)))), ((int)(((byte)(213)))), ((int)(((byte)(225)))));
+            this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button1.Font = new System.Drawing.Font("Segoe UI", 9.5F);
+            this.button1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(30)))), ((int)(((byte)(41)))), ((int)(((byte)(59)))));
+            this.button1.Location = new System.Drawing.Point(465, 530);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(85, 30);
+            this.button1.TabIndex = 5;
+            this.button1.Text = "Close";
+            this.button1.UseVisualStyleBackColor = false;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
+            // 
+            // btnDetain
+            // 
+            this.btnDetain.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(15)))), ((int)(((byte)(23)))), ((int)(((byte)(42)))));
+            this.btnDetain.Enabled = false;
+            this.btnDetain.FlatAppearance.BorderSize = 0;
+            this.btnDetain.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnDetain.Font = new System.Drawing.Font("Segoe UI", 9.5F, System.Drawing.FontStyle.Bold);
+            this.btnDetain.ForeColor = System.Drawing.Color.White;
+            this.btnDetain.Location = new System.Drawing.Point(560, 530);
+            this.btnDetain.Name = "btnDetain";
+            this.btnDetain.Size = new System.Drawing.Size(85, 30);
+            this.btnDetain.TabIndex = 6;
+            this.btnDetain.Text = "Detain";
+            this.btnDetain.UseVisualStyleBackColor = false;
+            this.btnDetain.Click += new System.EventHandler(this.btnDetain_Click);
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Font = new System.Drawing.Font("Segoe UI", 22F, System.Drawing.FontStyle.Bold);
+            this.label1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(15)))), ((int)(((byte)(23)))), ((int)(((byte)(42)))));
+            this.label1.Location = new System.Drawing.Point(210, 5);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(220, 41);
+            this.label1.TabIndex = 7;
+            this.label1.Text = "Detain License";
+            // 
+            // ctrlDetainLicenseInfo1
+            // 
+            this.ctrlDetainLicenseInfo1.BackColor = System.Drawing.Color.White;
+            this.ctrlDetainLicenseInfo1.Location = new System.Drawing.Point(15, 362);
+            this.ctrlDetainLicenseInfo1.Name = "ctrlDetainLicenseInfo1";
+            this.ctrlDetainLicenseInfo1.Size = new System.Drawing.Size(630, 170);
+            this.ctrlDetainLicenseInfo1.TabIndex = 2;
+            // 
+            // ctrlLicenseInfo1
+            // 
+            this.ctrlLicenseInfo1.BackColor = System.Drawing.Color.White;
+            this.ctrlLicenseInfo1.Location = new System.Drawing.Point(15, 115);
+            this.ctrlLicenseInfo1.Name = "ctrlLicenseInfo1";
+            this.ctrlLicenseInfo1.Size = new System.Drawing.Size(670, 250);
+            this.ctrlLicenseInfo1.TabIndex = 1;
+            // 
+            // ctrlSearchOnInternattionalLicense1
+            // 
+            this.ctrlSearchOnInternattionalLicense1.BackColor = System.Drawing.Color.White;
+            this.ctrlSearchOnInternattionalLicense1.Location = new System.Drawing.Point(15, 43);
+            this.ctrlSearchOnInternattionalLicense1.Name = "ctrlSearchOnInternattionalLicense1";
+            this.ctrlSearchOnInternattionalLicense1.Size = new System.Drawing.Size(440, 77);
+            this.ctrlSearchOnInternattionalLicense1.TabIndex = 0;
+            this.ctrlSearchOnInternattionalLicense1.Load += new System.EventHandler(this.ctrlSearchOnInternattionalLicense1_Load);
+            // 
+            // frmDetainLicense
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.Color.White;
+            this.ClientSize = new System.Drawing.Size(715, 575);
+            this.Controls.Add(this.label1);
+            this.Controls.Add(this.btnDetain);
+            this.Controls.Add(this.button1);
+            this.Controls.Add(this.llShowLicenseInfo);
+            this.Controls.Add(this.llShowLicenseHistory);
+            this.Controls.Add(this.ctrlDetainLicenseInfo1);
+            this.Controls.Add(this.ctrlLicenseInfo1);
+            this.Controls.Add(this.ctrlSearchOnInternattionalLicense1);
+            this.Name = "frmDetainLicense";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
+            this.Text = "Detain Licenses";
+            this.Load += new System.EventHandler(this.frmDetainLicense_Load);
+            this.ResumeLayout(false);
+            this.PerformLayout();
+
+        }
+
+        #endregion
+
+        private PresentationLayer.ctrlSearchOnInternattionalLicense ctrlSearchOnInternattionalLicense1;
+        private PresentationLayer.ctrlLicenseInfo ctrlLicenseInfo1;
+        private PresentationLayer.ctrlDetainLicenseInfo ctrlDetainLicenseInfo1;
+        private System.Windows.Forms.LinkLabel llShowLicenseHistory;
+        private System.Windows.Forms.LinkLabel llShowLicenseInfo;
+        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Button btnDetain;
+        private System.Windows.Forms.Label label1;
+    }
+}
