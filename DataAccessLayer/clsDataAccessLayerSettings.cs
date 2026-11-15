@@ -8,6 +8,6 @@ namespace DataAccessLayer
 {
     internal class clsDataAccessLayerSettings
     {
-        internal static string connectionString = "Server=.;Database=DVLD; User Id=sa; Password=sa123456";
+        internal static string connectionString = "Server=.;Database=DVLD; User Id=sa; Password=YOUR_PASSWORD_HERE";
     }
 }
