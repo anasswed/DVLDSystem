@@ -46,7 +46,9 @@ To run this project locally on your machine, follow these steps:
    * Build the solution (`Ctrl + Shift + B`) and press `F5` to run.
 
 ---
-
+## 🔑 Default Admin Account (For Testing)
+* **Username:** `user4`
+* **Password:** `1234`
 ## 👨‍💻 Author
 
 **Anas Swid**
